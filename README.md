@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danielperezec
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Platzi
 - 💞️ I’m looking to collaborate on Tech
 - 📫 How to reach me danielperezec@gmail.com
 
